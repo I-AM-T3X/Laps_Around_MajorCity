@@ -1,2 +1,3 @@
 # Laps_Around_MajorCity
-A World of Warcraft addon that tracks laps around the Sanctum of Light in Silvermoon City, recording lap times, total time, and your top 10 best laps.
+A World of Warcraft addon that tracks laps around the Main Building in the Major City of the current expansion, recording lap times, total time, and your top 10 best laps. Once enabled, it monitors your position against four checkpoints (North, West, South, East) and automatically detects when you complete a full lap in either direction.
+The tracker window displays your current lap time, total time on the wheel, and your all-time best lap. Your top 10 fastest laps are saved account-wide and can be printed to chat at any time. Laps can be started, paused, and stopped manually via the on-screen buttons, or will start and pause automatically based on whether you are moving near a checkpoint. The frame only appears after your first completed lap and can be freely dragged and hidden.
