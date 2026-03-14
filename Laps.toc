@@ -1,0 +1,8 @@
+## Interface: 120000
+## Title: Laps
+## Notes: Counts laps around the main building in Silvermoon City
+## Author: I_AM_T3X
+## Version: 1.0.0
+## SavedVariables: LapsDB
+
+Laps.lua
